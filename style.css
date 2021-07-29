@@ -18,11 +18,11 @@ background-color: #5AC2B9;
 }
 
 .Poll{
-  background-image: url(Back.png);
+  background-image: linear-gradient(0deg, #ffffff, #5AC2B9);
 }
 
 .Art{
-  background-image: url(Back.png);
+    background-image: linear-gradient(0deg, #ffffff, #5AC2B9);
 }
 
 .con{
@@ -34,7 +34,7 @@ background-color: #5AC2B9;
 }
 
 .Rules{
-  background-color: #5AC2B9;
+    background-image: linear-gradient(0deg, #179c88, #5AC2B9);
 }
 
 body{
@@ -53,6 +53,15 @@ h2{
   text-align: center;
   font-size: 50px;
   font-family: Satisfy;
+}
+
+h4{
+  float: right;
+  font-size: 50px;
+  color: #148574;
+  font-family: Satisfy;
+  margin-top: 300px;
+  margin-right: 500px;
 }
 
 h5{
@@ -76,6 +85,10 @@ p{
   text-align: center;
   font-size: 25px;
   font-family: Satisfy;
+}
+
+.REX{
+  margin-left: 200px;
 }
 
 .btn1 {

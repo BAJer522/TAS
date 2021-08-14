@@ -4,8 +4,8 @@
 }
 
 .ban{
-background-image: url(Grad.jpg);
-position: relative;
+background-image: linear-gradient(0deg, #5AC2B9, #90D4CD);
+
 }
 
 .ban1{
@@ -37,6 +37,11 @@ background-color: #5AC2B9;
     background-image: linear-gradient(0deg, #179c88, #5AC2B9);
 }
 
+.logo{
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
 body{
 margin: 0;
 }
@@ -55,13 +60,22 @@ h2{
   font-family: Satisfy;
 }
 
+.Art h2{
+  color: #179c88;
+  text-align: center;
+  font-size: 30px;
+  font-family: Satisfy;
+}
+
+
 h4{
   float: right;
-  font-size: 50px;
+  font-size: 40px;
   color: #148574;
   font-family: Satisfy;
   margin-top: 300px;
   margin-right: 500px;
+  padding-left: 30px;
 }
 
 h5{
@@ -73,8 +87,8 @@ h5{
 
 h6{
 float: right;
-font-size: 25px;
-margin-top: 300px;
+font-size: 20px;
+margin-top: 175px;
 color: #148574;
 font-family: Satisfy;
 
@@ -88,13 +102,13 @@ p{
 }
 
 .REX{
-  margin-left: 200px;
+  margin-left: 150px;
 }
 
 .btn1 {
   float: right;
-  margin-right: 1500px;
-  margin-top: 25px;
+  margin-right: 930px;
+  margin-top: 30px;
   background: #5488ab;
   background-image: -webkit-linear-gradient(top, #5488ab, #479e8d);
   background-image: -moz-linear-gradient(top, #5488ab, #479e8d);
@@ -124,7 +138,7 @@ p{
 
 .btn {
   float: left;
-  margin-top: -80px;
+  margin-top: -84px;
   margin-left: 450px;
   background: #5488ab;
   background-image: -webkit-linear-gradient(top, #5488ab, #479e8d);
@@ -156,7 +170,7 @@ p{
 
 .sub {
   float: left;
-  margin-top: -80px;
+  margin-top: -84px;
   margin-left: 750px;
   background: #5488ab;
   background-image: -webkit-linear-gradient(top, #5488ab, #479e8d);
@@ -166,7 +180,7 @@ p{
   background-image: linear-gradient(to bottom, #5488ab, #479e8d);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
-  border-radius: 28px;
+  border-radius: 20px;
   font-family: Georgia;
   color: #ffffff;
   font-size: 28px;
@@ -188,8 +202,8 @@ p{
 
 .rule {
   float: right;
-  margin-right: 775px;
-  margin-top: -80px;
+  margin-right: 235px;
+  margin-top: -84px;
   background: #5488ab;
   background-image: -webkit-linear-gradient(top, #5488ab, #479e8d);
   background-image: -moz-linear-gradient(top, #5488ab, #479e8d);
@@ -198,7 +212,7 @@ p{
   background-image: linear-gradient(to bottom, #5488ab, #479e8d);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
-  border-radius: 28px;
+  border-radius: 20px;
   font-family: Georgia;
   color: #ffffff;
   font-size: 28px;
@@ -217,7 +231,7 @@ p{
 }
 
 .cont {
-  margin-left: 800px;
+  margin-left: 500px;
   background: #5488ab;
   background-image: -webkit-linear-gradient(top, #5488ab, #479e8d);
   background-image: -moz-linear-gradient(top, #5488ab, #479e8d);

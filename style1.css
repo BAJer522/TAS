@@ -8,6 +8,15 @@
   padding-right: 30px;
 }
 
+.Right{
+  float: right;
+  font-size: 40px;
+  color: #148574;
+  font-family: Satisfy;
+  margin-top: -350px;
+  margin-right: 350px;
+}
+
 .REX{
   margin-left: 150px;
 
@@ -16,4 +25,10 @@
 .BAT{
   margin-right: 150px;
   float: right;
+}
+
+.EMP{
+  margin-top: 300px;
+  margin-left: 50px;
+
 }
